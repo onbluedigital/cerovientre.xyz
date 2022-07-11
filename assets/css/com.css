@@ -26,7 +26,7 @@ body {
 }
 
 .img-fluid{
-  max-width: 500px;
+  max-width: 500px!important;
 }
 
 .w-bottom-bar{
@@ -228,7 +228,7 @@ tr {
     margin-top: 0 !important;
   }
   .img-fluid{
-    max-width: 250px;
+    max-width: 250px!important;
   }
 }
 
