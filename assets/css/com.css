@@ -28,11 +28,7 @@ body {
 .img-fluid{
   max-width: 500px!important;
 }
-/*
-.w-bottom-bar{
-    display: none!important
-}
-*/
+
 .col-lg-8{
   flex: 0 0 100%;
   max-width: 100%;
@@ -290,3 +286,6 @@ tr {
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
     }
+.w-bottom-bar-right {
+    display: none!important;
+}
