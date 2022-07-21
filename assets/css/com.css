@@ -28,11 +28,11 @@ body {
 .img-fluid{
   max-width: 500px!important;
 }
-
+/*
 .w-bottom-bar{
     display: none!important
 }
-
+*/
 .col-lg-8{
   flex: 0 0 100%;
   max-width: 100%;
