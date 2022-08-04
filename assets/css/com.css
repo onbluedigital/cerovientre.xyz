@@ -21,6 +21,9 @@
   .h3, h3 {
     font-size: 18px;
   }
+  .w-bottom-bar.w-css-reset {
+    display: none!important;
+  }
 }
 
 * {
